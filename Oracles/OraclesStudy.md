@@ -80,6 +80,7 @@ Vitalik提出了POC设计，将SchellingCoin作为激励，让更多用户透过
 总结：Ethereum为代表的blockchain与M-of-N Oracles应可以各自为政。基础协议（Ethereum or Oracles）只是用户的仆人而非主人。
 
 ## 后续还关注
-- [Oraclize](http://www.oraclize.it/)
+- [Oraclize](http://www.oraclize.it/):SDK开源，但智能合约和后台操作未开源
 - [Smart Oracles](https://smartcontract.com/features)
-- [Augur](https://augur.net/) ![Augur logo](https://augur.net/img/augur_logo_small_white.png)
+- [Augur](https://augur.net/) ![Augur logo](https://augur.net/img/augur_logo_small_white.png):Augur uses **Serpent** as smart contract program language.
+- [Gnosis](https://github.com/ConsenSys/gnosis-contracts):Gnosis uses **Solidity** as smart contract program language.
